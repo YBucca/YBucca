@@ -6,7 +6,7 @@
 const yani = {
   aboutMe: {
                 study: "Front-End",
-                live: "Argentina, Mendoza",
+                from: "Argentina, Mendoza",
                 institute: "ADA ITW",
                 mentor: "Malena Rey"
             },
@@ -15,7 +15,9 @@ const yani = {
  
 }
 ```
-
+You can find me :star: 
+- [Linkedin](https://www.linkedin.com/in/yaninabucca/)
+- [Instagram](https://www.instagram.com/yanibucca/)
 <!--
 **YBucca/YBucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
