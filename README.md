@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 :black_heart:
+
+
+
+
+const yani = {
+  aboutMe: {
+                study: "Front-End",
+                live: "Argentina, Mendoza",
+                institute: "ADA ITW",
+                mentor: "Malena Rey"
+            },
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Bootstrap, SASS],
+ 
+}
 
 <!--
 **YBucca/YBucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
