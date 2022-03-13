@@ -1,8 +1,8 @@
-### Hi there 👋 :black_heart:
+### Hi, I'm Yanina  👋 :black_heart:
 
 
 
-
+```js
 const yani = {
   aboutMe: {
                 study: "Front-End",
@@ -14,6 +14,7 @@ const yani = {
   tools: [React, Bootstrap, SASS],
  
 }
+```
 
 <!--
 **YBucca/YBucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
